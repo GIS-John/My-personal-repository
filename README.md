@@ -1,2 +1,3 @@
 # My-personal-repository
-About John
+Hi ~~~~ 
+
